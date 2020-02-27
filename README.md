@@ -17,12 +17,12 @@ After Preprcessing of Raw movie scripts we have 3 csv file named as ( movies_lin
         In this file we have 3 columns and 3115 rows: 
         1st column, represents the conversations text. 
         2nd column, we label the behavior of agents ( mutualism, traditional, cooperative, opportunistic)
-        3rd column, we represents the labels of basic relationships 4 (family, friend , pleasant and unpleasant)
+        3rd column, we represents the labels of basic 4 relationships (family, friend , pleasant and unpleasant)
 
 # Subtpes Labelling:
 In this file we have 3 columns and 3115 rows:
         1st column, represents the conversations text. 
-        2nd column, we represents the labels of basic relationships 4 (family, friend , pleasant and unpleasant)
+        2nd column, we represents the labels of basic 4 relationships (family, friend , pleasant and unpleasant)
         3rd column, we represnt the 8 relationship subtypes (Consanguine, Annoying Acquaintance, Superficial Acquaintance,
                                                             Mentoring, Conjugal, Diverse Work, Undesirable, 
                                                             Close Acquaintance)
