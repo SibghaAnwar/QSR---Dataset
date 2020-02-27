@@ -8,8 +8,7 @@ Users in this dataset are movie characters. We take user index from the original
 Conversations are indexed by the id of the first utterance that make the conversation. 
 This data is also related to the research paper entitle “Chameleons in imagined conversations: a new approach to understanding coordination of linguistic style in dialogs” [2].The raw data used is described and provided here.
 In addition, this data will encourage research artificial intelligence (AI) based interacting agents to make them relaistic.
-
-# After Preprcessing of Raw movie scripts we have 3 csv file named as ( movies_lines, Network Creation , Basic Labelling, Subtpes Labelling)
+After Preprcessing of Raw movie scripts we have 3 csv file named as ( movies_lines, Network Creation , Basic Labelling, Subtpes Labelling)
 
 # Network Creation:
         In this file we create a pairwise network of characters in which we have all pairs of chararcters with their conversational dailouges.
