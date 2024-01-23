@@ -18,7 +18,7 @@ After Preprcessing of Raw movie scripts we have 3 csv file named as ( movies_lin
         2nd column, we label the behavior of agents ( mutualism, traditional, cooperative, opportunistic)
         3rd column, we represents the labels of basic 4 relationships (family, friend , pleasant and unpleasant)
 
-# Subtpes Labelling:
+# Subtypes Labelling:
         1st column, represents the conversations text. 
         2nd column, we represents the labels of basic 4 relationships (family, friend , pleasant and unpleasant)
         3rd column, we represnt the 8 relationship subtypes (Consanguine, Annoying Acquaintance, Superficial Acquaintance,
